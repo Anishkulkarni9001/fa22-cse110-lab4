@@ -4,4 +4,4 @@
 
 2. The fix I used is simple - call the 'parseInt()' method in the 'calculateSum' section to read the two inputs as integers rather than strings. Then, adding the two leads to regular numerical addition, and gives the desired output. 
 
-![Image](screenshots/fix.png)
+![Image](explore/screenshots/fix.png)
