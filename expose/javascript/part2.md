@@ -62,8 +62,8 @@
     A] Answer : true 
        Explanation : Here, we convert both arguments to numbers and compare as expected.
 
-    B] Answer : false
-       Explanation : Here, strings are compared in lexicographic order - as '12' comes before '2' in a dictionary, the output is false.
+    B] Answer : true
+       Explanation : Here, strings are compared in lexicographic order - as '12' comes before '2' in a dictionary, the output is true.
 
     C] Answer : true 
        Explanation : Here, we convert both arguments to numbers and compare as expected.
