@@ -24,9 +24,13 @@
 
 12. Answers labelled :
     A] student.name
+    
     B] student['Grad Year']
+    
     C] student.greeting()
+    
     D] student['Favorite Teacher'].name
+    
     E] student.courseload[0]
 
 13. Answers labelled :
